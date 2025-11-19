@@ -40,9 +40,8 @@ https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/Healthcare%20A
 
 
 3. Open Power BI Dashboard
-
-
+https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/Healthcare%20Dataset%20Report.pbix
 
 📈 Dashboard Preview
 
-(Add your screenshots to /visuals and embed them here.)
+
