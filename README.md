@@ -43,5 +43,6 @@ https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/Healthcare%20A
 https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/Healthcare%20Dataset%20Report.pbix
 
 📈 Dashboard Preview
+https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/snapshot%20of%20dashboard.png
 
 
