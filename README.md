@@ -33,15 +33,15 @@ Most common diseases/MedicalCondition
 
 How to Use
 1. Link of Repository
-git clone https://github.com/yourusername/healthcare-data-analysis.git
+
 
 2. Run SQL Scripts
+https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/Healthcare%20Analysis.sql
 
-Import datasets into your SQL database and run the scripts inside the sql-scripts folder.
 
 3. Open Power BI Dashboard
 
-Open healthcare_dashboard.pbix in Power BI Desktop and connect to your data source if needed.
+
 
 📈 Dashboard Preview
 
