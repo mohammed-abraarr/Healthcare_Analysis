@@ -19,8 +19,7 @@ Patient demographics analysis
 Hospital admission trends
 Disease/diagnosis frequency analysis
 Resource utilization (Billing, Medical Conditions, Diseases)
-Mortality rates & outcome metrics
-Time-series performance metrics
+
 
 Patient demographics overview
 
@@ -29,11 +28,11 @@ Disease,Test results prevalence chart
 Interactive slicers for  gender, Bloodgroup.
 Drill-through pages for detailed analysis
 Most common diseases/MedicalCondition
-
+Billing Amount by Insurance Provider
 
 How to Use
 1. Link of Repository
-
+https://github.com/mohammed-abraarr/Healthcare_Analysis
 
 2. Run SQL Scripts
 https://github.com/mohammed-abraarr/Healthcare_Analysis/blob/main/Healthcare%20Analysis.sql
